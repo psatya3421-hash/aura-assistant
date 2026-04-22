@@ -1,0 +1,6 @@
+{
+  "name": "Aura Assistant",
+  "description": "An atmospheric personal assistant for smart budgeting, sustainable waste management, and AI-powered cooking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
